@@ -1,2 +1,2 @@
 # git-yhteistyo
-Hei hahmo bw
+Tässä lopullinen keskustelu A:n ja B:n välillä
